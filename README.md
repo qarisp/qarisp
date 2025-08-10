@@ -4,8 +4,10 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 </p>
 
-🚀 **Data Engineer & Analytics** passionate about building robust, scalable, and high-performance data pipelines.  
-I love turning raw data into actionable insights and automating workflows to save time and reduce human error.  
+<p align="center">
+  🚀 **Data Engineer & Analytics** passionate about building robust, scalable, and high-performance data pipelines.  
+  I love turning raw data into actionable insights and automating workflows to save time and reduce human error.  
+</p>
 
 ---
 
@@ -62,10 +64,4 @@ GPA: 3.93 / 4.00
   <a href="https://www.credly.com/users/qaris-ardian-pratama">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/qarisp">Qaris Ardian Pratama</a>
 </p>
