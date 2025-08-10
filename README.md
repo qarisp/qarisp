@@ -48,6 +48,3 @@ GPA: 3.93 / 4.00
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaris-pratama-640960207/)  
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://qarisp.github.io/)  
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/qaris-ardian-pratama)  
-
----
-⭐️ From [Qaris Ardian Pratama](https://github.com/qarisp)
