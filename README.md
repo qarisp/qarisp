@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 **Data Engineer & Analytics** passionate about building robust, scalable, and high-performance data pipelines.  
+  🚀 <b></b>Data Engineer & Analytics</b> passionate about building robust, scalable, and high-performance data pipelines.  
   I love turning raw data into actionable insights and automating workflows to save time and reduce human error.  
 </p>
 
