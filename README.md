@@ -20,24 +20,6 @@ I love turning raw data into actionable insights and automating workflows to sav
 
 ---
 
-## 📌 Featured Projects
-
-### 📦 [The Look eCommerce Data Modelling](https://github.com/qarisp/thelook-data-modelling-project)
-- Designed a modern **data pipeline** using **dbt**, with **Amazon S3** as the landing zone for raw data and **Snowflake** as the warehouse.
-- Built staging and mart layers (star schema) for efficient analytics.
-- Automated transformations and documented models for data discoverability.
-
-### 🌦 [Indonesia Weather & Earthquake Map](https://github.com/qarisp/weather-earthquake-kafka-project)  
-- Built a **real-time streaming pipeline** with **Kafka** to collect data from OpenWeatherMap and BMKG APIs.
-- Stored data in **DynamoDB** and visualized it using **Streamlit**.
-- Implemented **Telegram alerts** for instant notifications.
-
-### 📊 [The Look eCommerce Dashboard](https://public.tableau.com/app/profile/qaris.pratama8706/viz/TheLook_17422002785660/SalesPerformanceDashboard2)  
-- Created an interactive **Tableau dashboard** for sales performance, fulfillment rate, and customer insights.
-- Designed parameters & calculated fields for dynamic exploration.
-
----
-
 ## 💼 Experience
 
 **Monsieur Blonde, Bali** — *Data Engineer & Analytics*  
