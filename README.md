@@ -1,4 +1,4 @@
-# Hi there, I'm Qaris Ardian Pratama 👋  
+# Hey 👋 What's Up? I'm Qaris Pratama 
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
